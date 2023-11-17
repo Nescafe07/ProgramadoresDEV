@@ -3,10 +3,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package view;
-
+// Fala iago olokiho meuuuuuu
+// youTube shorts huuuuuuuuhuuhuuhuuh
 /**
  *
- * @author clebe
+ * @author clebe 
  */
 public class TelaPrincipal extends javax.swing.JFrame {
 
